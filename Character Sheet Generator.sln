@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character Sheet Generator", "Character Sheet Generator\Character Sheet Generator.csproj", "{EE31DFB8-8FCF-4600-A979-612447FCBBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE31DFB8-8FCF-4600-A979-612447FCBBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE31DFB8-8FCF-4600-A979-612447FCBBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE31DFB8-8FCF-4600-A979-612447FCBBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE31DFB8-8FCF-4600-A979-612447FCBBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB4DFBE-33C0-4E70-AD6D-994708FEDB95}
+	EndGlobalSection
+EndGlobal
